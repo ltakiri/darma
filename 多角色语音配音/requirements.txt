@@ -1,0 +1,4 @@
+openvino==2026.0.0
+modelscope
+gradio==6.9.0
+qwen-tts

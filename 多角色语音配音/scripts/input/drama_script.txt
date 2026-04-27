@@ -1,0 +1,7 @@
+# Example audio drama — edit freely
+[Vivian]: Welcome to the OpenVINO audio drama showcase.
+[Ryan|cheerful]: I'm Ryan, and I'm absolutely thrilled to be here!
+[Eric]: Let me add a calm, measured perspective to this conversation.
+[voice: a mysterious ancient sage with a slow cadence]: The secrets of the universe are not easily revealed.
+[Vivian]: Well said. Shall we continue?
+[Ryan]: Absolutely — this is going to be a great show!
